@@ -1,11 +1,9 @@
-describe("Login Positif", () => {
+describe("Login Negatif, Melakukan login menggunakan username yang terkunci dan password benar", () => {
   it("passess", () => {
     cy.visit(Cypress.env("baseUrl")).wait(2000);
     cy.get("#user-name").type(Cypress.env("usernameLocked"));
     cy.get("#password").type(Cypress.env("passwordTrue"));
     cy.get("#login-button").contains("LOGIN").click();
-    // cy.get('.btn_action').should(be'visible').click();
-    // cy.contains('button', 'Login').should('be.visible').click();
-    cy.wait(8000);
+    cy.wait(5000);
   });
 });

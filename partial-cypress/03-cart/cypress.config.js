@@ -2,7 +2,10 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    specPattern: ["cypress/e2e/01-Login/*.cy.js"],
+    baseUrl: "https://www.saucedemo.com/v1/index.html",
+    specPattern: [
+      "cypress/e2e/03-cart/**",
+    ],
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
