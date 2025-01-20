@@ -98,4 +98,6 @@ cypress env json
 
 ## Panduan
 [ALUR KERJA UIUX TEST CYPRESS.txt](https://github.com/user-attachments/files/18475069/ALUR.KERJA.UIUX.TEST.CYPRESS.txt)
+[QA-TRAINING-RIKO.xlsx](https://github.com/user-attachments/files/18475083/QA-TRAINING-RIKO.xlsx)
+
 
