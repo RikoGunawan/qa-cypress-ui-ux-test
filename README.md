@@ -1,4 +1,4 @@
-[ALUR KERJA UIUX TEST CYPRESS.txt](https://github.com/user-attachments/files/18475045/ALUR.KERJA.UIUX.TEST.CYPRESS.txt)# QA Training Project
+[pre-commit.txt](https://github.com/user-attachments/files/18475480/pre-commit.txt)[pre-commit.txt](https://github.com/user-attachments/files/18475474/pre-commit.txt)[ALUR KERJA UIUX TEST CYPRESS.txt](https://github.com/user-attachments/files/18475045/ALUR.KERJA.UIUX.TEST.CYPRESS.txt)# QA Training Project
 
 
 
@@ -97,7 +97,9 @@ cypress env json
 [cypressEnvJsonExample.txt](https://github.com/user-attachments/files/18475038/cypressEnvJsonExample.txt)
 
 ## Panduan
-[ALUR KERJA UIUX TEST CYPRESS.txt](https://github.com/user-attachments/files/18475069/ALUR.KERJA.UIUX.TEST.CYPRESS.txt)
+[ALUR KERJA UIUX TEST CYPRESS.txt](https://github.com/user-attachments/files/18475468/ALUR.KERJA.UIUX.TEST.CYPRESS.txt) <br>
+[pre-commit.txt](https://github.com/user-attachments/files/18475486/pre-commit.txt) <br>
+[TEMPLATE_UPDATE_PROGRESS_ISSUE_QA_RIKO UI TEST CYPRESS.txt](https://github.com/user-attachments/files/18475488/TEMPLATE_UPDATE_PROGRESS_ISSUE_QA_RIKO.UI.TEST.CYPRESS.txt) <br>
 [QA-TRAINING-RIKO.xlsx](https://github.com/user-attachments/files/18475083/QA-TRAINING-RIKO.xlsx)
 
 
