@@ -1,0 +1,24 @@
+{
+  "name": "qa-training-project",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.neuron.id/ui-testing/qa-training-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "husky": "^9.1.7",
+    "save-dev": "^0.0.1-security"
+  }
+}
